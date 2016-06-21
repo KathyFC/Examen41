@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.img1{
+	width: 50%;
+	height: 100%;
+}
+
+.bat{
+	background-image: url("bat.jpg");
+}
+.sup{
+	background-image: url("superm.jpg");
+}
